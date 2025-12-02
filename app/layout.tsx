@@ -6,10 +6,7 @@ export const metadata: Metadata = {
   title: 'Outlivion VPN Portal',
   description: 'Личный кабинет VPN Outlivion',
   icons: {
-    icon: [
-      { url: '/favicon.svg', type: 'image/svg+xml' },
-      { url: '/favicon.ico', type: 'image/x-icon' },
-    ],
+    icon: '/favicon.svg',
   },
 }
 
